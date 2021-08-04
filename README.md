@@ -50,5 +50,5 @@ wget https://raw.githubusercontent.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/Auto_Sc
 * Rezoth™
 * KingKongVPN™
 
-##Original Github Repo
+## Original Github Repo
 * https://github.com/xiihaiqal/AutoScriptVPS
