@@ -46,7 +46,7 @@ wget https://raw.githubusercontent.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/Auto_Sc
 * IPv6     : [off]
 * V2Ray Adding Zoon!
 * Torrent Block 99%
-* 
+
 ## Credit :
 * Hora pusa
 * Rezoth™
