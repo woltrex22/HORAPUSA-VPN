@@ -14,7 +14,7 @@
 ## Installation :
 
   ```html
-wget https://raw.githubusercontent.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/AutoScript && chmod +x AutoScript && ./AutoScript
+wget https://raw.githubusercontent.com/BHATHIYA-ROOT/HORAPUSA-VPN/master/Auto_Script && chmod +x AutoScript && ./AutoScript
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
