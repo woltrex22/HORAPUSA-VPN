@@ -895,15 +895,6 @@ echo -e "\e[94m    Privoxy                       :   "$privoxyport | tee -a log-
 echo -e "\e[94m    Badvpn UDPGW                  :   "7300       | tee -a log-install.txt
 echo -e "\e[94m    Wireguard                     :   "7070  | tee -a log-install.txt
 echo -e "\e[94m    L2TP/IPSEC VPN                :   "1701  | tee -a log-install.txt
-echo -e "\e[94m    PPTP VPN                      :   "1732  | tee -a log-install.txt
-echo -e "\e[94m    SSTP VPN                      :   "5555  | tee -a log-install.txt
-echo -e "\e[94m    Shadowsocks-R                 :   "1443-1543  | tee -a log-install.txt
-echo -e "\e[94m    SS-OBFS TLS                   :   "2443-2543  | tee -a log-install.txt
-echo -e "\e[94m    SS-OBFS HTTP          :   "3443-3453  | tee -a log-install.txt
-echo -e "\e[94m    V2RAY Vmess TLS       :   "4443  | tee -a log-install.txt
-echo -e "\e[94m    V2RAY Vmess None TLS  :   "80  | tee -a log-install.txt
-echo -e "\e[94m    Trojan                :   "6443  | tee -a log-install.txt
-echo -e "\e[94m                                                  " | tee -a log-install.txt
 echo -e "\e[94m              Other Features Included             " | tee -a log-install.txt
 echo -e "\e[94m                                                  " | tee -a log-install.txt
 echo -e "\e[94m    Timezone              :   Asia/Kuala_lumpur (GMT +8) " | tee -a log-install.txt
